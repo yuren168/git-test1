@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Hello world!4 hot-fix test");
         System.out.println("push test");
         System.out.println("push test1");
+        System.out.println("pull test2");
     }
 }
